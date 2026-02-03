@@ -1,0 +1,2 @@
+# Requires: future-latency
+# (Not available on PyPI)
